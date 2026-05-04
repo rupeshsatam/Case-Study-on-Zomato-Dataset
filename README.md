@@ -11,6 +11,7 @@ SELECT COUNT(*) FROM order_details;
 
 How many total records are in the `order_details` table?
 SELECT COUNT(*) FROM order_details;
+
 Q2. How can we randomly sample 5 users from the users table?
 SELECT * FROM users 
 ORDER BY rand() 

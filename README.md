@@ -2,6 +2,24 @@
 
 A comprehensive set of SQL queries based on a **food delivery platform** database (users, orders, restaurants, menu, food, delivery_partner, etc.).
 
+## This case study covers essential SQL data cleaning techniques including:
+
+- Creating backups
+
+- Removing NULL values
+
+- Data type conversions
+
+- String manipulation with REPLACE and SUBSTRING_INDEX
+
+- CASE statements for standardization
+
+- Extracting numeric values from text
+
+- Column management (ADD, MODIFY, DROP)
+
+- Storage unit conversions (TB to GB)
+
 ## Questions and Answers
 
 

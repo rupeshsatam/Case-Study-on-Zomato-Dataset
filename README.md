@@ -2,6 +2,31 @@
 
 A comprehensive set of SQL queries based on a **food delivery platform** database (users, orders, restaurants, menu, food, delivery_partner, etc.).
 
+## This case study covers essential SQL data analysis techniques including:
+
+- Counting total records and random sampling
+
+- NULL value detection and replacement
+
+- Aggregations with GROUP BY (COUNT, AVG, SUM)
+
+- Multi-table JOINs (INNER JOIN, EXCEPT operator)
+
+- Date functions (MONTHNAME, date ranges)
+
+- Statistical correlation (CORR function)
+
+- Restaurant rating analysis (non-NULL filtering, rounding)
+
+- Month-over-month revenue tracking
+
+- User behavior analysis (per-user per-food orders)
+
+- Delivery partner performance calculation
+
+- Vegetarian-only restaurant identification using MIN/MAX
+
+- Customer order summary (min, max, avg amounts)
 
 ## Questions and Answers
 
